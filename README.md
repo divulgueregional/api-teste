@@ -126,7 +126,7 @@ git --version
 ```
 ## Baixando a api do bayleys
 ```shell
-git clone https://github.com/divulgueregional/WhatsAPI-25-06-2022 api
+git clone https://github.com/divulgueregional/api-teste api_atual
 ```
 
 ## Instalação complementar
