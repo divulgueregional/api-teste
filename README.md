@@ -242,6 +242,12 @@ Monitor
 pm2 monit
 ```
 
+Log
+
+```shell
+pm2 log
+```
+
 # Desinstalar pm2
 
 Inicialização desativada:
